@@ -1,0 +1,11 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: index, datatype: int64}
+# - {name: filt, datatype: string}
+# - {name: ra, datatype: float64}
+# - {name: dec, unit: deg, datatype: float64}
+# - {name: radius, unit: pix, datatype: float64}
+# schema: astropy-2.0
+index filt ra dec radius
+15 1nw 233.2164392 30.2901302 370.14881
